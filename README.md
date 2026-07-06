@@ -1,30 +1,13 @@
-# Luané Williams Portfolio
+# luane-williams.github.io-main V2 Portfolio
 
-Professional GitHub Pages portfolio for Luané Amber Williams.
+A polished responsive V2 portfolio with:
 
-## Repository
+- Unique industry-matched visual direction
+- Responsive mobile navigation
+- Scroll reveal animations
+- Theme toggle with local storage
+- SVG favicon
+- Improved SEO/OpenGraph metadata
+- Download links for existing CV assets where available
 
-`luane-williams-portfolio`
-
-## Files
-
-- `index.html` - main portfolio page
-- `css/style.css` - full responsive styling
-- `js/app.js` - mobile menu, animations, back-to-top button
-- `assets/profile.jpg` - profile image extracted from the CV
-- `assets/Luane-Amber-Williams-CV.pdf` - downloadable CV
-- `assets/favicon.png` - favicon
-
-## Update LinkedIn
-
-The current LinkedIn link used in the site is:
-
-https://www.linkedin.com/in/luan%C3%A9-williams-68632b369?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHPPkKeJjTpKiUffunrTvaw%3D%3D
-
-## Deploy on GitHub Pages
-
-1. Upload all files to the repository.
-2. Go to Settings > Pages.
-3. Under Branch, choose `main` and `/root`.
-4. Save.
-5. GitHub will publish the website after a few minutes.
+Open `index.html` locally to test.
